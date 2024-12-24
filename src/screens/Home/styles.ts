@@ -92,6 +92,7 @@ export const taskStyle = StyleSheet.create({
         fontSize: 20,
         fontWeight: "bold",
         textAlign: "center",
+        paddingVertical: 10,
     },
     content: {
         ...baseStyle.mainTextColor,
